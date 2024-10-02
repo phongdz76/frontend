@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "ditmemay"
+echo "dm"
