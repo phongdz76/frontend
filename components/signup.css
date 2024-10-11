@@ -136,16 +136,17 @@ a[href="/components/login.html"]:hover{
     align-items: center;
     justify-content: center;
     padding: 10px;
+    color: #ffffff;
     border: 1px solid #ddd;
+    text-decoration: none;
     border-radius: 20px;
+    font-weight: 550;
     margin: 0 5px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 .social-btn:hover {
     background-color: #f0f0f0;
-}
-.social-btn p:hover{
     color: #000000;
 }
 .social-btn img {
@@ -153,12 +154,7 @@ a[href="/components/login.html"]:hover{
     height: 24px;
     margin-right: 10px;
 }
-.social-btn p {
-    font-weight: 550;
-    color: #ccc;
-    margin: 0;
-    font-size: 14px;
-}
+
 .login-link {
     text-align: center;
     margin-top: 20px;
