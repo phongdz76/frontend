@@ -27,7 +27,7 @@ body{
 .container {
     display: flex;
     position: absolute;
-    top: 6.5%;
+    top: 3%;
     left: 20%;
     background-color: rgba(49, 49, 49, 0.421);
     backdrop-filter: blur(50px);
